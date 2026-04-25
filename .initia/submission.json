@@ -1,0 +1,12 @@
+{
+  "project_name": "Raxinia",
+  "repo_url": "https://github.com/destination071159-boop/RAXINIA",
+  "commit_sha": "645b9f2bf77be4439619c162b08b1ab654505ea8",
+  "rollup_chain_id": "evm-1",
+  "deployed_address": "0x4e91C13158D3E0a8F8fBb7cce91712c6F9886690",
+  "vm": "evm",
+  "native_feature": "auto-signing",
+  "core_logic_path": "contracts/src/RaxcCreditVault.sol",
+  "native_feature_frontend_path": "frontend/components/PaymentModal.tsx",
+  "demo_video_url": "https://youtu.be/3WqKwvjwgAg"
+}
